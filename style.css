@@ -71,7 +71,7 @@ span svg{
 .product-cards {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  padding: 20px 170px;
+  padding: 20px 140px;
   position: relative;
   gap: 20px;
 }
